@@ -1,3 +1,4 @@
-# summer_school_2023
-CHPC/NITheCS Summer School 2023\n
-The script present here can be used to download ligand entries from pubchem
+# CHPC/NITheCS_Coding_Summer_School_2023
+The script present in this repo can be used to download ligand entries from PubChem<br />
+A short **list.txt** file is also included<br /> 
+This is read and those entries are then downloaded
